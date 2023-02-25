@@ -1,4 +1,4 @@
-# **Front-end Resources** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![stevelab1](https://img.shields.io/badge/stevelab1-blue?style=pill&logo=github&logoColor=white&labelWidth=70&labelHeight=22&borderRadius=10)](https://github.com/stevelab1)
+# **Front-end Resources** [![stevelab1](https://img.shields.io/badge/stevelab1-blue?style=pill&logo=github&logoColor=white&labelWidth=70&labelHeight=22&borderRadius=10)](https://github.com/stevelab1)
 
 List of awesome learning and career development resources from the course and other credible sources for Front-end Web Developers. It will also serve as a free learning path. More to be added... Including `what to learn next` and `updates` to technologies covered.
 
