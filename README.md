@@ -1,6 +1,8 @@
-# **Awesome Learning Resources** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# **Frontend Learning Resources** 
 
 A curated list of awesome learning and career development resources for Frontend Web Developers. It will also serve as a learning path. The focus will begin with frontend web development and then grow to the backend later on.
+
+## Contents
 
 - [React](#react)
   - [React General Resources](#react-general-resources)
