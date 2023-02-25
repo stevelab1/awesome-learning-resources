@@ -4,7 +4,7 @@ A curated list of awesome learning and career development resources for Frontend
 
 ## Contents
 
-- [Still to be organsied](#still-to-be-organsied)
+- [Still to be organised](#still-to-be-organised)
 
 
 - [React](#react)
@@ -557,7 +557,19 @@ A curated list of awesome learning and career development resources for Frontend
 
 ---
 
-## Still to be organsied:
+## Still to be organised:
+
+YouTube video tutorial on JavaScript DOM Crash Course - Part 1 that you may find helpful:
+
+Title: JavaScript DOM Crash Course - Part 1
+URL: https://www.youtube.com/watch?v=0ik6X4DJKCc
+Description: This video provides an introduction to the Document Object Model (DOM) in JavaScript. It covers the basics of what the DOM is, how to access and manipulate elements on a web page using JavaScript, and how to use event listeners to respond to user actions.
+
+And here's an article on "What's the Document Object Model, and why you should know how to use it" that you may find informative:
+
+Title: What's the Document Object Model, and why you should know how to use it
+URL: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+Description: This article provides a comprehensive introduction to the Document Object Model (DOM), explaining what it is and why it's important for web development. It covers the structure of the DOM, how to access and manipulate elements using JavaScript, and how to use the DOM to respond to user events. It also includes examples and best practices for using the DOM effectively in your web projects.
 
 Read the MDN Web Docs on querySelectorAll() and the MDN Web Docs on setAttribute()
 
@@ -586,3 +598,40 @@ Here is a link to a website that converts Unix timestamps: https://www.unixtimes
 Check out this article on the history of AJAX: https://hackernoon.com/the-xhr-history-lesson-you-never-wanted-2c892678f78d
 
 Here is an article on synchronous vs. asynchronous JavaScript, call stack, promises, and more: https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/
+
+
+GitHub cheatsheet:
+https://training.github.com/downloads/github-git-cheat-sheet.pdf
+
+
+Git and GitHub Tutorials #5 - Understanding GitHub Issues
+Link: https://www.youtube.com/watch?v=TKJ4RdhyB5Y
+
+How to resolve merge conflicts in Git
+Link: https://www.youtube.com/watch?v=xNVM5UxlFSA
+
+Here is a reference photo for GitHub branches!
+Link: https://i.imgur.com/4PzC0Yk.png
+
+
+
+APIs:
+Big List of Free and Open Public APIs (No Auth Needed) [2022]
+Link: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+
+
+CSS
+Flexbox
+https://mastery.games/flexboxzombies/
+
+Algorithms and data structures:
+https://github.com/Niccatania/studentAlgoPractice
+
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
+
+Javascript fundamentals:
+https://www.codewars.com/collections/javascript-fundamentals
+
+Coding challenge websites:
+https://www.freecodecamp.org/news/the-8-most-popular-coding-challenge-websites-of-2020/
