@@ -4,6 +4,10 @@ List of awesome learning and career development resources from the course and ot
 
 ## Contents
 
+- [Jobs](#jobs)
+
+- [News](#news)
+
 - [Still to be organised](#still-to-be-organised)
 
 
@@ -49,6 +53,15 @@ List of awesome learning and career development resources from the course and ot
     - [Video Tutorials](#video-tutorials)
   - [Demo React Apps](#demo-react-apps)
   - [Real React Apps](#real-react-apps)
+
+### Jobs
+
+- [Software Development Apprenticeship, Engineering, 2023 September Start (Google)](https://careers.google.com/jobs/results/143215573132550854-software-development-apprenticeship-engineering-2023-september-start/?distance=50&hl=en_US&jlo=en_US&location=United%20Kingdom&q=%22Software%20Development%20Apprenticeship%22&src=Online%2FGoogle%20Website%2FByF&utm_campaign=&utm_medium=software_engineering_apprenticeship_uk&utm_source=byf)
+
+### News
+
+- [Create React App Alternatives](https://hackernoon.com/create-react-app-is-dead-here-are-some-alternatives)
+- [State of Javascript Latest Survey Results](https://2022.stateofjs.com/en-US/libraries/)
 
 
 ### React
