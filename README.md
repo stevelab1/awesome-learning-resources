@@ -1,10 +1,6 @@
-# **Front-end Learning Resources**[<img src="https://raw.githubusercontent.com/stevelab1/awesome-learning-resources/main/stevelab-logo-small.png" height="28"/>](https://github.com/stevelab1)[![stevelab1](https://img.shields.io/badge/stevelab1-green.svg?style=for-the-badge)](https://github.com/stevelab1)
+# **Front-end Resources** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![stevelab1](https://img.shields.io/badge/stevelab1-blue?style=pill&logo=github&logoColor=white&labelWidth=70&labelHeight=22&borderRadius=10)](https://github.com/stevelab1)
 
-[<img src="https://raw.githubusercontent.com/stevelab1/awesome-learning-resources/main/stevelab-logo-small.png" height="28"/>](https://github.com/stevelab1)[![stevelab1](https://img.shields.io/badge/stevelab1-green.svg?style=for-the-badge)](https://github.com/stevelab1)
-
-
-
-List of awesome learning and career development resources from the course and other credible sources for Front-end Web Developers. It will also serve as a free learning path. More to be added... Including `what to learn next`, `updates` to technologies covered, and `news`.
+List of awesome learning and career development resources from the course and other credible sources for Front-end Web Developers. It will also serve as a free learning path. More to be added... Including `what to learn next` and `updates` to technologies covered.
 
 ## Contents
 
@@ -846,3 +842,8 @@ In this guide, we'll walk through the steps we need to take to install NodeJS on
 https://www.reddit.com/r/webdev/comments/10qqipt/why_does_instagram_have_so_many_empty_div/
 redditreddit
 Why does Instagram have so many empty div elements in their code?
+
+---
+</br>
+
+[<img src="https://raw.githubusercontent.com/stevelab1/awesome-learning-resources/main/stevelab-logo-small.png" height="28"/>](https://github.com/stevelab1)[![stevelab1](https://img.shields.io/badge/stevelab1-green.svg?style=for-the-badge)](https://github.com/stevelab1) 
