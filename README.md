@@ -841,6 +841,6 @@ See https://help.github.com/articles/ignoring-files/ for more about ignoring fil
 
 ---
 
-</br>
+## Contributors
 
 [<img src="https://raw.githubusercontent.com/stevelab1/awesome-learning-resources/main/stevelab-logo-small.png" height="28"/>](https://github.com/stevelab1)[![stevelab1](https://img.shields.io/badge/stevelab1-green.svg?style=for-the-badge)](https://github.com/stevelab1)
