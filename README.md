@@ -1,4 +1,10 @@
-# **Front-end Resources** [![stevelab1](https://img.shields.io/badge/stevelab1-blue?style=pill&logo=github&logoColor=white&labelWidth=70&labelHeight=22&borderRadius=10)](https://github.com/stevelab1)
+# **Front End Learning Path** [![stevelab1](https://img.shields.io/badge/stevelab1-blue?style=pill&logo=github&logoColor=white&labelWidth=70&labelHeight=22&borderRadius=10)](https://github.com/stevelab1) 
+[![GitHub stars](https://img.shields.io/github/stars/stevelab1/awesome-learning-resources)](https://github.com/stevelab1/awesome-learning-resources/stargazers)
+![Badge for GitHub last commit](https://img.shields.io/github/last-commit/stevelab1/awesome-learning-resources?style=flat&logo=appveyor)
+[![GitHub forks](https://img.shields.io/github/forks/stevelab1/awesome-learning-resources)](https://github.com/stevelab1/awesome-learning-resources/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/stevelab1/awesome-learning-resources)](https://github.com/stevelab1/awesome-learning-resources/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/stevelab1/awesome-learning-resources)](https://github.com/stevelab1/awesome-learning-resources/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/stevelab1/awesome-learning-resources)](https://github.com/stevelab1/awesome-learning-resources/pulls)
 
 List of awesome learning and career development resources from the course and other credible sources for Front-end Web Developers. It will also serve as a free learning path. More to be added... Including `what to learn next` and `updates` to technologies covered.
 
@@ -9,7 +15,6 @@ List of awesome learning and career development resources from the course and ot
 - [News](#news)
 
 - [Still to be organised](#still-to-be-organised)
-
 
 - [React](#react)
   - [React General Resources](#react-general-resources)
@@ -63,7 +68,6 @@ List of awesome learning and career development resources from the course and ot
 - [Create React App Alternatives](https://hackernoon.com/create-react-app-is-dead-here-are-some-alternatives)
 - [State of Javascript Latest Survey Results](https://2022.stateofjs.com/en-US/libraries/)
 
-
 ### React
 
 > JavaScript Library for building User Interfaces
@@ -72,7 +76,7 @@ List of awesome learning and career development resources from the course and ot
 
 - [React Official Website](https://reactjs.org/)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [React Beta Documentation](https://beta.reactjs.org) - the future docs, 99% complete  
+- [React Beta Documentation](https://beta.reactjs.org) - the future docs, 99% complete
 - [React on GitHub](https://github.com/facebook/react)
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov (of the React Core Team)
 
@@ -448,7 +452,6 @@ List of awesome learning and career development resources from the course and ot
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [RxDB](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications
 
-
 ##### Maps
 
 - [react-googlemaps](https://github.com/pieterv/react-googlemaps) - React interface to Google maps
@@ -612,10 +615,8 @@ Check out this article on the history of AJAX: https://hackernoon.com/the-xhr-hi
 
 Here is an article on synchronous vs. asynchronous JavaScript, call stack, promises, and more: https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/
 
-
 GitHub cheatsheet:
 https://training.github.com/downloads/github-git-cheat-sheet.pdf
-
 
 Git and GitHub Tutorials #5 - Understanding GitHub Issues
 Link: https://www.youtube.com/watch?v=TKJ4RdhyB5Y
@@ -626,12 +627,9 @@ Link: https://www.youtube.com/watch?v=xNVM5UxlFSA
 Here is a reference photo for GitHub branches!
 Link: https://i.imgur.com/4PzC0Yk.png
 
-
-
 APIs:
 Big List of Free and Open Public APIs (No Auth Needed) [2022]
 Link: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
-
 
 CSS
 Flexbox
@@ -641,7 +639,6 @@ Algorithms and data structures:
 https://github.com/Niccatania/studentAlgoPractice
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
-
 
 Javascript fundamentals:
 https://www.codewars.com/collections/javascript-fundamentals
@@ -658,9 +655,10 @@ An Immediately-invoked Function Expression is a way to execute functions immedia
 HOC - Higher Order Functions and diving into function programming
 https://www.youtube.com/watch?v=BMUiFMZr7vk (good start)
 YouTubeYouTube | Fun Fun Function
-Higher-order functions - Part 1 of Functional Programming in JavaScript 
+Higher-order functions - Part 1 of Functional Programming in JavaScript
 
 Cool tip: https://stackoverflow.com/questions/60155443/vscode-preview-markdown-by-default
+
 ```
 Update vs settings.json file with:
 
@@ -668,6 +666,7 @@ Update vs settings.json file with:
     "*.md": "vscode.markdown.preview.editor",
 },
 ```
+
 Stack OverflowStack Overflow
 VSCode preview markdown by default
 99.999999999% of my work with markdown files is reading. Can I enable preview mode by default for this files?
@@ -683,7 +682,6 @@ javascript30.com
 JavaScript 30
 Build 30 things with vanilla JS in 30 days with 30 tutorials (931 kB)
 
-
 hackinbitshackinbits
 Understanding Map in Javascript - Part 1 | hackinbits
 Map is a collection of key and value pairs, similar to Object. Let's learn the basics of Map in this article. (142 kB)
@@ -696,7 +694,7 @@ https://bobbyhadz.com/blog/javascript-initialize-map-with-values
 
 https://www.youtube.com/watch?v=8NX808LlUFQ
 YouTube | Before Semicolon
-Map/Dictionaries in javascript - When to use Map vs Object 
+Map/Dictionaries in javascript - When to use Map vs Object
 
 Medium
 Making Objects Iterable in JavaScript
@@ -706,14 +704,13 @@ https://medium.com/swlh/making-objects-iterable-in-javascript-252d9e270be6
 markdown license badge images - https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
 YouTube | The Net Ninja
-Object Oriented JavaScript Tutorial #1 - Introduction 
+Object Oriented JavaScript Tutorial #1 - Introduction
 https://www.youtube.com/watch?v=4l3bTDlT6ZI&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7
 
 Encapsulation - https://www.w3schools.blog/encapsulation-javascript-js
 Inheritance - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
 Abstraction - https://linuxhint.com/javascript-abstraction/
 Polymorphism - https://www.youtube.com/watch?v=XxMUJ9-Pb2E
-
 
 https://levelup.gitconnected.com/why-we-dont-need-the-function-keyword-in-javascript-anymore-7e43a8709491
 Function expression vs function declaration - https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/
@@ -722,9 +719,9 @@ How to clone an array in javascript - https://www.freecodecamp.org/news/how-to-c
 freeCodeCamp.orgfreeCodeCamp.org
 How to clone an array in JavaScript
 JavaScript has many ways to do anything. I’ve written on 10 Ways to Write pipe/compose in JavaScript
- [/news/10-ways-to-write-pipe-compose-in-javascript-f6d54c575616/], and now we’re doing arrays. 1. Spread Operator (Shallow copy) Ever since ES6 dropped, this has been the most popular method. 
+[/news/10-ways-to-write-pipe-compose-in-javascript-f6d54c575616/], and now we’re doing arrays. 1. Spread Operator (Shallow copy) Ever since ES6 dropped, this has been the most popular method.
 
- Shallow copy vs deep copy difference
+Shallow copy vs deep copy difference
 https://www.freecodecamp.org/news/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd/
 freeCodeCamp.orgfreeCodeCamp.org
 How to differentiate between deep and shallow copies in JavaScript
@@ -743,12 +740,11 @@ How to use Arrange Act Assert pattern in unit testing, and why it is so helpful.
 
 https://www.digitalocean.com/community/conceptual-articles/prototype-design-pattern-in-javascript
 digitalocean.comdigitalocean.com
-Prototype Design Pattern in JavaScript  | DigitalOcean
+Prototype Design Pattern in JavaScript | DigitalOcean
 Any JavaScript developer has either seen the keyword prototype, confused by the prototypical inheritance, or implemented prototypes in their code. The Protot…
 
-
 Philip Howley (Instructor)
-  6:47 PM
+6:47 PM
 Tip - extension - https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 marketplace.visualstudio.commarketplace.visualstudio.com
 ES7+ React/Redux/React-Native snippets - Visual Studio Marketplace
@@ -767,10 +763,9 @@ Deployment | Create React App
 npm run build creates a build directory with a production build of your app. Set up your favorite HTTP server so that a visitor to your site is served index.html, and requests to static paths like /static/js/main..js are served with the contents of the /static/js/main..js file. For more information see the production build section.
 https://create-react-app.dev/docs/deployment/#github-pages
 
-
 https://www.youtube.com/watch?v=Ma6DRDIedVE
 YouTube | Tech With Tim
-React For Beginners #1 - Introduction & Environment Setup 
+React For Beginners #1 - Introduction & Environment Setup
 
 https://www.smashingmagazine.com/2020/01/introduction-react-context-api/
 
@@ -778,7 +773,7 @@ https://blog.logrocket.com/understanding-redux-tutorial-examples/
 
 https://www.youtube.com/watch?v=TNhaISOUy6Q (great video introducing a bunch of react hooks)
 YouTubeYouTube | Fireship
-10 React Hooks Explained // Plus Build your own from Scratch 
+10 React Hooks Explained // Plus Build your own from Scratch
 
 https://gist.github.com/jdtdesigns/936839ea2cea6b4d3193b520c750a09b Another Instructor has created a great React Resource for you all. The instructor broke down each concept in React into singular videos, so you can jump into a particular concept that you may be struggling with, without having to watch an entire single course video. I think it's a great idea and I think getting another perspective on these topics is also a good idea.
 
@@ -821,18 +816,16 @@ Have you encountered promises in JavaScript and wondered what they are? Why are 
 
 https://www.youtube.com/watch?v=2d7s3spWAzo
 YouTubeYouTube | Fun Fun Function
-Promises - Part 8 of Functional Programming in JavaScript 
-
+Promises - Part 8 of Functional Programming in JavaScript
 
 freeCodeCamp.org
 https://www.freecodecamp.org/news/how-to-add-a-netlify-form-to-a-react-app/
 How to Add a Netlify Form to a React App Built with create-react-app
 If you are a web developer, at some point you will need to capture information from people who use your website or app. One way of doing so is by using HTML forms. But there are also tons of frameworks out there that you can use to build web apps
 
-
-a list of 'free programming books' 
+a list of 'free programming books'
 https://github.com/EbookFoundation/free-programming-books
-There's a mix of free online books and other resources that you may find useful 
+There's a mix of free online books and other resources that you may find useful
 
 https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs
 coding-boot-camp.github.iocoding-boot-camp.github.io
@@ -843,7 +836,10 @@ https://www.reddit.com/r/webdev/comments/10qqipt/why_does_instagram_have_so_many
 redditreddit
 Why does Instagram have so many empty div elements in their code?
 
+See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
 ---
+
 </br>
 
-[<img src="https://raw.githubusercontent.com/stevelab1/awesome-learning-resources/main/stevelab-logo-small.png" height="28"/>](https://github.com/stevelab1)[![stevelab1](https://img.shields.io/badge/stevelab1-green.svg?style=for-the-badge)](https://github.com/stevelab1) 
+[<img src="https://raw.githubusercontent.com/stevelab1/awesome-learning-resources/main/stevelab-logo-small.png" height="28"/>](https://github.com/stevelab1)[![stevelab1](https://img.shields.io/badge/stevelab1-green.svg?style=for-the-badge)](https://github.com/stevelab1)
