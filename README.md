@@ -1,6 +1,6 @@
 # **Front-end Learning Resources** 
 
-List of awesome learning and career development resources from the course for Front-end Web Developers. It will also serve as a learning path. More to be added... Including `what to learn next`, `updates` to technologies covered, and `news`.
+List of awesome learning and career development resources from the course and othert credible sources for Front-end Web Developers. It will also serve as a free learning path. More to be added... Including `what to learn next`, `updates` to technologies covered, and `news`.
 
 ## Contents
 
