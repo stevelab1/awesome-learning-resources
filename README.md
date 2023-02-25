@@ -744,8 +744,6 @@ digitalocean.comdigitalocean.com
 Prototype Design Pattern in JavaScript | DigitalOcean
 Any JavaScript developer has either seen the keyword prototype, confused by the prototypical inheritance, or implemented prototypes in their code. The Protot…
 
-Philip Howley (Instructor)
-6:47 PM
 Tip - extension - https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 marketplace.visualstudio.commarketplace.visualstudio.com
 ES7+ React/Redux/React-Native snippets - Visual Studio Marketplace
@@ -776,7 +774,7 @@ https://www.youtube.com/watch?v=TNhaISOUy6Q (great video introducing a bunch of 
 YouTubeYouTube | Fireship
 10 React Hooks Explained // Plus Build your own from Scratch
 
-https://gist.github.com/jdtdesigns/936839ea2cea6b4d3193b520c750a09b Another Instructor has created a great React Resource for you all. The instructor broke down each concept in React into singular videos, so you can jump into a particular concept that you may be struggling with, without having to watch an entire single course video. I think it's a great idea and I think getting another perspective on these topics is also a good idea.
+https://gist.github.com/jdtdesigns/936839ea2cea6b4d3193b520c750a09b A great React Resource for you all. The instructor broke down each concept in React into singular videos, so you can jump into a particular concept that you may be struggling with, without having to watch an entire single course video. I think it's a great idea and I think getting another perspective on these topics is also a good idea.
 
 https://wasuradananjith.medium.com/testing-with-jest-and-enzyme-in-react-part-4-shallow-vs-mount-in-enzyme-d60cad73f85c shallow() vs mount()
 MediumMedium
@@ -843,4 +841,4 @@ See https://help.github.com/articles/ignoring-files/ for more about ignoring fil
 
 ## Contributors
 
-[<img src="https://raw.githubusercontent.com/stevelab1/awesome-learning-resources/main/stevelab-logo-small.png" height="28"/>](https://github.com/stevelab1)[![stevelab1](https://img.shields.io/badge/stevelab1-green.svg?style=for-the-badge)](https://github.com/stevelab1)
+[<img src="https://raw.githubusercontent.com/stevelab1/awesome-learning-resources/main/images/logo-small.png" height="28"/>](https://github.com/stevelab1)[![stevelab1](https://img.shields.io/badge/stevelab1-green.svg?style=for-the-badge)](https://github.com/stevelab1)
