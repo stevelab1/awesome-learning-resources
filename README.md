@@ -4,6 +4,9 @@ A curated list of awesome learning and career development resources for Frontend
 
 ## Contents
 
+- [Still to be organsied](#still-to-be-organsied)
+
+
 - [React](#react)
   - [React General Resources](#react-general-resources)
   - [React Community](#react-community)
@@ -553,3 +556,33 @@ A curated list of awesome learning and career development resources for Frontend
 - [mattermost](https://github.com/mattermost/mattermost-webapp) - Open source Slack alternative
 
 ---
+
+## Still to be organsied:
+
+Read the MDN Web Docs on querySelectorAll() and the MDN Web Docs on setAttribute()
+
+The Document method querySelectorAll() returns a static (not live) NodeList representing a list of the document's elements that match the specified group of selectors. Here is the link to the documentation: https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
+
+The Element.setAttribute() function sets the value of an attribute on the specified element. If the attribute already exists, the value is updated; otherwise, a new attribute is added with the specified name and value. Here is the link to the documentation: https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute
+
+Should I learn jQuery? Check out this article to learn more: https://nicozerpa.com/should-you-learn-jquery-in-2022/#:~:text=It's%20good%20to%20know%20jQuery,the%20DOM%20with%20less%20code.
+
+Here is a jQuery cheat sheet: https://oscarotero.com/jquery/
+
+Here is a list of ridiculously impressive HTML5 canvas-based experiments that will make you say, "Wow!" https://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210
+
+Here is an article that provides a simple guide to help you understand closures in JavaScript: https://medium.com/@prashantramnyc/javascript-closures-simplified-d0d23fa06ba4
+
+3.5 hours “JavaScript the Weird Parts”: https://www.youtube.com/watch?v=Bv_5Zv5c-Ts
+
+"Scope and closures" from the "You Don’t Know JS" series: https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md
+
+Check out this article for the best alternatives to Moment.js: https://medium.com/swlh/best-moment-js-alternatives-5dfa6861a1eb
+
+Here is a link to Emmet's cheat sheet: https://docs.emmet.io/cheat-sheet/
+
+Here is a link to a website that converts Unix timestamps: https://www.unixtimestamp.com/
+
+Check out this article on the history of AJAX: https://hackernoon.com/the-xhr-history-lesson-you-never-wanted-2c892678f78d
+
+Here is an article on synchronous vs. asynchronous JavaScript, call stack, promises, and more: https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/
