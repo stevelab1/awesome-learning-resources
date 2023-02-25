@@ -1,4 +1,4 @@
-# **Front-end Learning Resources** 
+# **Front-end Learning Resources** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 List of awesome learning and career development resources from the course and othert credible sources for Front-end Web Developers. It will also serve as a free learning path. More to be added... Including `what to learn next`, `updates` to technologies covered, and `news`.
 
