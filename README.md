@@ -1,8 +1,9 @@
-# **Front End Learning Path** [![stevelab1](https://img.shields.io/badge/stevelab1-blue?style=pill&logo=github&logoColor=white&labelWidth=70&labelHeight=22&borderRadius=10)](https://github.com/stevelab1) 
+# **Front End Learning Path** 
 [![GitHub stars](https://img.shields.io/github/stars/stevelab1/awesome-learning-resources)](https://github.com/stevelab1/awesome-learning-resources/stargazers)
 ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/stevelab1/awesome-learning-resources?style=flat&logo=appveyor)
 [![GitHub forks](https://img.shields.io/github/forks/stevelab1/awesome-learning-resources)](https://github.com/stevelab1/awesome-learning-resources/network)
 [![GitHub contributors](https://img.shields.io/github/contributors/stevelab1/awesome-learning-resources)](https://github.com/stevelab1/awesome-learning-resources/graphs/contributors)
+[![stevelab1](https://img.shields.io/badge/stevelab1-blue?style=pill&logo=github&logoColor=white&labelWidth=70&labelHeight=22&borderRadius=10)](https://github.com/stevelab1) 
 [![GitHub issues](https://img.shields.io/github/issues/stevelab1/awesome-learning-resources)](https://github.com/stevelab1/awesome-learning-resources/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/stevelab1/awesome-learning-resources)](https://github.com/stevelab1/awesome-learning-resources/pulls)
 
