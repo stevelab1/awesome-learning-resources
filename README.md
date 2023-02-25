@@ -1,6 +1,6 @@
 # **Front-end Learning Resources** 
 
-A curated list of awesome learning and career development resources for Frontend Web Developers. It will also serve as a learning path. The focus will begin with frontend web development and then grow to the backend later on.
+List of awesome learning and career development resources from the course for Front-end Web Developers. It will also serve as a learning path. More to be added... Including `what to learn next`, `updates` to technologies covered, and `news`.
 
 ## Contents
 
